@@ -1,3 +1,4 @@
+# [Ритейл](https://github.com/NinaOk/retail/blob/main/retail.ipynb)
 
 # Задача
 Оценка эффективности торговых точек
