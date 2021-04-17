@@ -1,7 +1,7 @@
 # [retail](https://github.com/NinaOk/retail/blob/main/retail.ipynb)
 
 # Задача
-Оценка эффективности торговых точек  Retail (https://github.com/NinaOk/retail/blob/main/retail.ipynb)
+Оценка эффективности торговых точек
 
 # Стек
 python, numpy, pandas, scipy.stats, matplotlib, seaborn 
