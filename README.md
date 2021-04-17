@@ -1,5 +1,5 @@
 # [Ритейл](https://github.com/NinaOk/retail/blob/main/retail.ipynb)
-#[Презентация](https://docs.google.com/presentation/d/1wcBDwBdeMd46tEotwlYbfPdoRaR5gZFLSQ3_e0i4gl0/edit?usp=sharing), [дешборд (Tableau)](https://public.tableau.com/profile/ninok1979#!/vizhome/retail_16184255734680/Dashboard1?publish=yes)
+# [Презентация](https://docs.google.com/presentation/d/1wcBDwBdeMd46tEotwlYbfPdoRaR5gZFLSQ3_e0i4gl0/edit?usp=sharing), [дешборд (Tableau)](https://public.tableau.com/profile/ninok1979#!/vizhome/retail_16184255734680/Dashboard1?publish=yes)
 
 # Задача
 Оценка эффективности торговых точек, проверка гипотез относительно множества лояльных и нелояльных клиентов
